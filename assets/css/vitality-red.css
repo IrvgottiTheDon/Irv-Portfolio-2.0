@@ -155,7 +155,7 @@ hr.colored {
 }
 @media (min-width: 768px) {
   hr {
-    max-width: 200px;
+    max-width: 400px;
     margin: 20px auto;
   }
   hr.left {
