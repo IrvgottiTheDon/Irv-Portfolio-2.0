@@ -992,6 +992,7 @@ footer.footer {
   background-size: cover;
   -o-background-size: cover;
   padding: 50px 0 20px;
+  text-shadow: 2px 2px 10px black;
 }
 footer.footer a {
   color: rgba(255, 255, 255, 0.7);
