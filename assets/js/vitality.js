@@ -109,7 +109,7 @@
                 effects: ['fade'],
                 easing: 'snap',
                 // call the hover effect
-                onMixEnd: filterList.hoverEffect()
+                // onMixEnd: filterList.hoverEffect()
             });
 
         },
@@ -140,6 +140,22 @@
 
     };
 
+    // Skills Filtering Scripts & Hover Effect
+    var skillsFilterList = {
+        init: function() {
+
+            // MixItUp plugin
+            // http://mixitup.io
+            $('#skillList').mixitup({
+                targetSelector: '.skill',
+                filterSelector: '.skillFilter',
+                effects: ['fade'],
+                easing: 'snap',
+            });
+        }
+    };
+
+    skillsFilterList.init();
     filterList.init();
 
 })(jQuery); // End of use strict

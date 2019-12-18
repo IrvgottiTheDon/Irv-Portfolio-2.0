@@ -1,0 +1,110 @@
+
+/*======================================================================================================================================================*/
+► ABOUT ME
+Hello, I'm Irv
+
+I am a freelance web designer and developer, based in Bluffdale, Utah. I have a professional background in graphic design .
+
+Whether your next project is an online store, website for your business, or a simple brochure, I'll be ready to help!
+
+/*======================================================================================================================================================*/
+► SKILLS (OLD)
+Browser Based Technologies
+    HTML
+    CSS
+    JavaScript
+    jQuery
+    Responsive Design
+    Bootstrap
+    Handlebars
+    Firebase
+    Cookies,Local Storage
+    React.js
+
+Node.js (Server Side Development)
+    Express
+    Security and Session Storage
+    User Authentication
+    MERN Stack (MongoDB, Express.js,React.js Node.js)
+
+PHP
+    Larave
+
+Deployment
+    Heroku
+    Git
+
+Databases
+    MySQL
+    MongoDB
+
+Internet Marketing
+    SEO
+    Semantic HTML
+
+/*======================================================================================================================================================*/
+► SKILLS (NEW)
+TAG FILTERS: 
+    Front-End, Back-End, Templating, JavaScript Library, PHP, Database, Internet Marketing, Version Control, Technology Stacks
+
+ITEMS:
+    HTML (Front-End)
+    CSS (Front-End)
+    JavaScript (Front-End / Back-End)
+    jQuery (JavaScript Library / Front-End / Back-End)
+    Responsive Design (Front-End)
+    Bootstrap (Front-End / JavaScript Libaries)
+    Handlebars (Templating / JavaScript Libaries)
+    React.js (Front-End / Back-End / Templating / JavaScript Library)
+    MERN Stack (MongoDB / Express.js / React.js / Node.js) (Technology Stack)
+    Express.js (JavaScript Library / Back-End)
+    Node.js (JavaScript Library / Back-End)
+    Cookies and Local Storage (Back-End)
+    Security and Session Storage (Back-End)
+    User Authentication (Back-End)
+    Laravel (PHP)
+    Heroku (Deployment)
+    Git (Deployment / Version Control)
+    MySQL (Database / SQL / Back-End)
+    MongoDB (Database / NoSQL / Back-End)
+    Firebase (Database / NoSQL / Back-End)
+    SEO (Internet Marketing)
+    Semantic HTML (Internet Marketing)
+
+DOWNLOAD MY RESUME --> https://
+/*======================================================================================================================================================*/
+► PORTFOLIO / PROJECTS
+Node.js-MySQL
+https://github.com/IrvgottiTheDon/Node.js-MySQL
+
+FinalStarwarsApp
+https://github.com/IrvgottiTheDon/FinalStarwarsApp
+
+Friend-Finder
+https://github.com/IrvgottiTheDon/Friend-Finder---Node-and-Express-Servers
+
+TriviaGame (NBA Trivia)
+https://github.com/IrvgottiTheDon/TriviaGame
+
+Liri-Node-App
+https://github.com/IrvgottiTheDon/liri-node-app
+
+TreasureBox
+https://github.com/rbaird2001/treasureBox
+
+Burger
+https://github.com/IrvgottiTheDon/Burger
+
+Project-2
+https://github.com/IrvgottiTheDon/Project-2
+
+Train-Scheduler
+https://github.com/IrvgottiTheDon/Train-Scheduler
+
+GifTastic
+https://github.com/IrvgottiTheDon/GifTastic
+
+Unit-4-game (Crystal Collectors)
+https://github.com/IrvgottiTheDon/Unit-4-game
+
+

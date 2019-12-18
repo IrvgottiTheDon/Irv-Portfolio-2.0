@@ -838,7 +838,8 @@ aside.cta-quote span.quote {
   position: absolute;
   width: 100%;
   height: 75px;
-  bottom: -75px;
+  /* bottom: -75px; */
+  bottom: 0px;
 }
 #portfoliolist .portfolio .portfolio-wrapper .caption .caption-bg {
   background: #ef4035;
@@ -861,9 +862,75 @@ aside.cta-quote span.quote {
   display: block;
   font-size: 12px;
 }
+
+/* custom styling */
+.skills-filter {
+  display: inline-block;
+}
+.skills-filter #skillFilters {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 30px;
+}
+.skills-filter #skillFilters li {
+  display: inline-block;
+}
+.skills-filter #skillFilters li .skillFilter {
+  display: block;
+  cursor: pointer;
+  padding: 10px 15px;
+  margin: 2px;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 1px;
+  font-size: 12px;
+  color: #222222;
+  background: transparent;
+  border: 1px solid #222222;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.skills-filter #skillFilters li .skillFilter.active {
+  background-color: #ef4035;
+  color: white;
+  border-color: #ef4035;
+}
+#skillList .skill {
+  width: 30%;
+  margin: 1%;
+  display: none;
+  float: left;
+  overflow: hidden;
+}
+#skillList .skill .skill-wrapper {
+  overflow: hidden;
+  position: relative !important;
+  cursor: pointer;
+}
+.portfolio-modal .modal-body .modalScreenshotWrapper {
+  overflow: hidden;
+  position: relative !important;
+  cursor: pointer;
+  max-width:500px;
+  margin: 0 auto;
+}
+.portfolio-modal .modal-body .modalScreenshotWrapper img {
+  max-width: 100%;
+  position: relative;
+}
+.bg-radial-red-black {
+  background: rgb(255,0,0); background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(6,0,0,1) 50%);
+}
 /*  #Mobile (Portrait) - Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
   #portfoliolist .portfolio {
+    width: 48%;
+    margin: 1%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #skillList .skill {
     width: 48%;
     margin: 1%;
   }
@@ -962,8 +1029,6 @@ aside.cta-quote span.quote {
   margin: 0;
   font-size: 0.85em;
   line-height: 1.764705882em;
-  vertical-align: middle;
-  vertical-align: baseline;
   opacity: 0;
   -webkit-transition: top 0.5s ease,opacity 0.5s ease;
   -moz-transition: top 0.5s ease,opacity 0.5s ease;
